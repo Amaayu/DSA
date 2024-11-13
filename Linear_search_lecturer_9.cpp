@@ -5,7 +5,7 @@ int linearSearch(vector<int> &vec, int target);
 int main()
 {
   vector<int> vec = {4, 82, 45, 23, 98, 65, 76, 45};
-  int target = 45;
+  int target = 76;
 
   int value = linearSearch(vec, target);
 
