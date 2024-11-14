@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-int linearSearch(vector<int> &vec, int target);
+int linearSearch(vector<int> &, int);
 int main()
 {
   vector<int> vec = {4, 82, 45, 23, 98, 65, 76, 45};
