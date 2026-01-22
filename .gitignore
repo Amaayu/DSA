@@ -1,1 +1,10 @@
 *.iml
+# IntelliJ IDEA
+.idea/
+
+# Compiled files
+*.class
+out/
+
+# OS files
+.DS_Store
